@@ -11,12 +11,13 @@ export class AppComponent {
     new Recipe(
       'Scrambled Eggs',
       ['2 Eggs', 'Dab of Butter', 'Dash salt & pepper'],
-      ['Add eggs to pan', 'Add butter to pan', 'Cook eggs in pan', 'Add a dash of salt and pepper as needed'
+      ['Add eggs to pan', 'Add butter to pan', 'Cook eggs in pan', 'Add a dash of salt and pepper as needed']
     ),
     new Recipe(
       'Quesadilla',
       ['Tortilla, cheese', 'optional: protein of your choice'],
-      ['Heat pan on medium', 'Warm tortilla in pan', 'Great cheese onto tortilla and fold in half', 'Enjoy'),
+      ['Heat pan on medium', 'Warm tortilla in pan', 'Great cheese onto tortilla and fold in half', 'Enjoy']
+    ),
     new Recipe(
       'Cereal With Milk',
       ['Cereal of choice', 'Milk of choice'],
