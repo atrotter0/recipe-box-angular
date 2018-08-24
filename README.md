@@ -54,7 +54,7 @@ A simple Angular app focusing on model and component structure for displaying ha
 
 ## Links
 
-* [Github Repo] https://github.com/atrotter0/netflix-clone
+* [Github Repo] https://github.com/atrotter0/recipe-box-angular
 * [Firebase App] 
 
 ## License
